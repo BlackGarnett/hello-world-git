@@ -12,3 +12,9 @@ Underline 1 con (3x-)
 Underline 2 con (3x=)
 =====================
 
+#Emphasis
+Formato en *italica* con ( * ). 
+Formato en _italica_ con ( _ ).
+Formato en **bold** con ( 2x* ).
+Formato en __bold__ con ( 2x_ ).
+Formato en ~tachado~ con ( ~ ).
