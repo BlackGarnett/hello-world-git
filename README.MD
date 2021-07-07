@@ -32,4 +32,7 @@ Underline 2 con (3x=)
 # Links
 - <a href="https://www.github.com" title="GitHub">Esto es un Link en HTML</a>.
 - [Esto es un link en markdown](https://www.github.com).
-- [Esto es un link en markdown con anchor a los files](index.html).
+- [Esto es un link en markdown a un archivo](index.html).
+
+# Imágenes
+![Logo GitHub](https://image.flaticon.com/icons/svg/25/25231.svg)
