@@ -85,3 +85,10 @@ export  $initHighlight;
 | Juan   | Perez    | 12345678  |
 | Pepe   | Rodríguez| 12345678  |
 
+# Citas / Quotes
+Esto es un texto referente a la siguiente cita:
+> Esto es una cita con ( > ).
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
+ 
