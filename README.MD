@@ -91,4 +91,16 @@ Esto es un texto referente a la siguiente cita:
 
 Esto es otro texto que no se relaciona con la cita anterior.
 > Esto es otra cita.
- 
+
+# Líneas Divisoras
+Esto es un texto que será dividido por guiones medios.
+
+---
+Esto es otro texto dividido por astericos.
+
+***
+
+Esto es otro texto dividido por guiones bajos.
+
+___
+
